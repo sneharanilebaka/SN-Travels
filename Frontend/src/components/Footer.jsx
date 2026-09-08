@@ -28,10 +28,10 @@ function Footer() {
 
         <div>
           <h3>Contact Us</h3>
-          <p><FaPhone /> +91 99999 99999</p>
+          <p><FaPhone /> +91 8309975518</p>
           <p><FaWhatsapp /> WhatsApp</p>
-          <p><FaEnvelope /> sntravels@gmail.com</p>
-          <p><FaMapMarkerAlt /> Hyderabad, Telangana</p>
+          <p><FaEnvelope /> naveen.pndm125@gmail.com sn</p>
+          <p><FaMapMarkerAlt /> Rajamundry,Andhra pradesh</p>
         </div>
 
       </div>
