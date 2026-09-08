@@ -20,7 +20,7 @@ function Navbar() {
         <Link to="/contact">Contact</Link>
       </div>
 
-      <a href="tel:+919999999999" className="nav-call">
+      <a href="tel:+91 8309975518" className="nav-call">
         <FaPhone /> Call Now
       </a>
     </nav>
