@@ -22,12 +22,12 @@ function Home() {
           </h1>
 
           <h2>
-            Premium Car Rental For Every Journey
+            Premium Car Rental in Rajahmundry
           </h2>
 
           <p>
-            Affordable, comfortable and reliable car
-            rental services for local and outstation travel.
+             SN Travels provides affordable, comfortable and reliable car
+             rental services in Rajahmundry for local, airport and outstation travel.
           </p>
 
           <div className="hero-buttons">
